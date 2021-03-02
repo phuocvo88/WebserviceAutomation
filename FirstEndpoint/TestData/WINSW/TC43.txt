@@ -1,0 +1,22 @@
+{
+  "claim": "770519067237",
+  "creator": "SPRUSER1",
+  "payeeId": 138921,
+  "payTo": 4,
+  "invoiceNo": "1212",
+  "documentId": "DOC010030409",
+  "businessUnit": "IFNSW",
+  "lineItems": [
+    {
+      "providerId": 138921,
+      "paymentCode": "VWT001",
+      "serviceFrom": "2020-11-01 00:00:00",
+      "serviceUntil": null,
+      "numberOfServices": 1,
+      "invoiceDate": "2020-11-01 00:00:00",
+      "invoiceNumber": "1212",
+      "totalExGst": 33.00,
+      "totalIncGst": 3.00
+    }
+  ]
+}

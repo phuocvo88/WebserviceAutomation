@@ -1,0 +1,22 @@
+{
+  "claim": "770519080564",
+  "creator": "RMO",
+  "payeeId": 122144,
+  "payTo": 4,
+  "invoiceNo": "19092019",
+  "documentId": "DOC010030409",
+  "businessUnit": "IfNSW",
+  "lineItems": [
+    {
+      "providerId": 122144,
+      "paymentCode": "IN7300",
+      "serviceFrom": "2019-09-21 00:00:00",
+      "serviceUntil": null,
+      "numberOfServices": 1,
+      "invoiceDate": "2019-09-21 00:00:00",
+      "invoiceNumber": "19092019",
+      "totalExGst": 104.50,
+      "totalIncGst": 9.50
+    }
+  ]
+}

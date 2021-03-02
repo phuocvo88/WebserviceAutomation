@@ -1,0 +1,22 @@
+{
+  "claim": "100009EML",
+  "creator": "KDD",
+  "payeeId": 74571,
+  "payTo": 4,
+  "invoiceNo": "46930",
+  "documentId": "DOC010030409",
+  "businessUnit": "IfNSW",
+  "lineItems": [
+    {
+      "providerId": 74571,
+      "paymentCode": "PHR002",
+      "serviceFrom": "2016-06-25 00:00:00",
+      "serviceUntil": null,
+      "numberOfServices": 1,
+      "invoiceDate": "2020-03-15 00:00:00",
+      "invoiceNumber": "46930",
+      "totalExGst": 364.32,
+      "totalIncGst": 33.12
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "claim": "162124EML",
+  "creator": "VR1",
+  "payeeId": 109184,
+  "payTo": 4,
+  "invoiceNo": "174354",
+  "documentId": "DOC010030409",
+  "businessUnit": "IfNSW",
+  "lineItems": [
+    {
+      "providerId": 481901,
+      "paymentCode": "PHR002",
+      "serviceFrom": "2017-06-05 00:00:00",
+      "serviceUntil": null,
+      "numberOfServices": 1,
+      "invoiceDate": "2017-06-08 00:00:00",
+      "invoiceNumber": "174354",
+      "totalExGst": 33.00,
+      "totalIncGst": 0.00
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "claim": "25538EML",
+  "creator": "lnp",
+  "payeeId": 1561,
+  "payTo": 4,
+  "invoiceNo": "54 06 43",
+  "documentId": "DOC010030409",
+  "businessUnit": "IfNSW",
+  "lineItems": [
+    {
+      "providerId": 1561,
+      "paymentCode": "PHR002",
+      "serviceFrom": "2010-03-18 00:00:00",
+      "serviceUntil": null,
+      "numberOfServices": 4,
+      "invoiceDate": "2010-03-18 00:00:00",
+      "invoiceNumber": "54 06 43",
+      "totalExGst": 3.00,
+      "totalIncGst": 0.27
+    }
+  ]
+}

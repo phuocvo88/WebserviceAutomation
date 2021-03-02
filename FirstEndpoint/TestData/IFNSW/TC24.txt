@@ -1,0 +1,22 @@
+{
+  "claim": "160490EML",
+  "creator": "spruser1",
+  "payeeId": 142629,
+  "payTo": 4,
+  "invoiceNo": "1408230",
+  "documentId": "DOC010030409",
+  "businessUnit": "IfNSW",
+  "lineItems": [
+    {
+      "providerId": 142629,
+      "paymentCode": "PHR002",
+      "serviceFrom": "2017-11-01 00:00:00",
+      "serviceUntil": null,
+      "numberOfServices": 1,
+      "invoiceDate": "2018-11-15 00:00:00",
+      "invoiceNumber": "1408230",
+      "totalExGst": 15.00,
+      "totalIncGst": 1.36
+    }
+  ]
+}

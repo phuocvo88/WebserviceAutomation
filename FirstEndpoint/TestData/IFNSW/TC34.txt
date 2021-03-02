@@ -1,0 +1,22 @@
+{
+  "claim": "135286EML",
+  "creator": "LT4",
+  "payeeId": 115437,
+  "payTo": 4,
+  "invoiceNo": "CID10420",
+  "documentId": "DOC010030409",
+  "businessUnit": "IfNSW",
+  "lineItems": [
+    {
+      "providerId": 115437,
+      "paymentCode": "PHR002",
+      "serviceFrom": "2020-02-13 00:00:00",
+      "serviceUntil": null,
+      "numberOfServices": 1,
+      "invoiceDate": "2020-02-13 00:00:00",
+      "invoiceNumber": "CID10420",
+      "totalExGst": 75.00,
+      "totalIncGst": 0.00
+    }
+  ]
+}

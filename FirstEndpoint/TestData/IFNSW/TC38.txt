@@ -1,0 +1,22 @@
+{
+  "claim": "138689EML",
+  "creator": "RMO",
+  "payeeId": 122144,
+  "payTo": 4,
+  "invoiceNo": "34",
+  "documentId": "DOC010030409",
+  "businessUnit": "IfNSW",
+  "lineItems": [
+    {
+      "providerId": 122144,
+      "paymentCode": "PHR002",
+      "serviceFrom": "1991-06-04 00:00:00",
+      "serviceUntil": null,
+      "numberOfServices": 1,
+      "invoiceDate": "1991-06-04 00:00:00",
+      "invoiceNumber": "34",
+      "totalExGst": 33.50,
+      "totalIncGst": 9.50
+    }
+  ]
+}

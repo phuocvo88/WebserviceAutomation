@@ -1,0 +1,22 @@
+{
+  "claim": "119738EML",
+  "creator": "RMO",
+  "payeeId": 169592,
+  "payTo": 4,
+  "invoiceNo": "05052020",
+  "documentId": "DOC010030409",
+  "businessUnit": "IfNSW",
+  "lineItems": [
+    {
+      "providerId": 169592,
+      "paymentCode": "PHR002",
+      "serviceFrom": "2013-09-13 00:00:00",
+      "serviceUntil": null,
+      "numberOfServices": 1,
+      "invoiceDate": "2020-05-05 00:00:00",
+      "invoiceNumber": "05052020",
+      "totalExGst": 33.00,
+      "totalIncGst": 3.00
+    }
+  ]
+}

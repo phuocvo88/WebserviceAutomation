@@ -1,0 +1,22 @@
+{
+  "claim": "191600EML",
+  "creator": "65700",
+  "payeeId": 124908,
+  "payTo": 4,
+  "invoiceNo": "19092019",
+  "documentId": "DOC010030409",
+  "businessUnit": "IfNSW",
+  "lineItems": [
+    {
+      "providerId": 124908,
+      "paymentCode": "WPI001",
+      "serviceFrom": "2020-09-22 00:00:00",
+      "serviceUntil": null,
+      "numberOfServices": 1,
+      "invoiceDate": "2020-09-22 00:00:00",
+      "invoiceNumber": "0123",
+      "totalExGst": 651370,
+      "totalIncGst": 0
+    }
+  ]
+}
